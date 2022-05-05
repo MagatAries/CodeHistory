@@ -21,6 +21,7 @@ struct ChoiceTextView: View {
             .padding()
             .border(accentColor, width: 4)
     }
+    
 }
 
 struct ChoiceTextView_Previews: PreviewProvider {
